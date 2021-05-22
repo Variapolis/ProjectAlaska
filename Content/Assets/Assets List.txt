@@ -11,3 +11,5 @@ https://www.turbosquid.com/3d-models/3d-container-surfaces-1312946 Container 2
 https://www.turbosquid.com/3d-models/3d-military-container-box-model-1489835 Container 3
 https://www.turbosquid.com/3d-models/piper-pa-18-supercub-fbx-free/1041070 Plane
 https://www.unrealengine.com/marketplace/en-US/product/construction-site-vol-1-supply-and-material-props Construction Site
+https://www.unrealengine.com/marketplace/en-US/product/advanced-glass-material-pack Glass Pack
+https://www.unrealengine.com/marketplace/en-US/item/f3b754bad504490fa84ae13f2b12ea9a Textures Pack
